@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(88, 191, 231);
+}
+.p{
+    width:120wh;
+    height:120vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    border:10px solid skyblue;
+    background-image: url('https://i.ytimg.com/vi/su3ejcIeVdo/maxresdefault.jpg');
+    
+}
+.p2{
+    width:120wh;
+    height:120vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border:10px solid skyblue;
+    display: flex;
+    
+    background-image: url('https://static.euronews.com/articles/stories/05/98/40/48/1440x810_cmsv2_890e6458-118e-5d59-af39-b30623f8f7d6-5984048.jpg');
+}
+.p3{
+    width:120wh;
+   
+    height:120vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border:10px solid skyblue;
+    background-image: url('https://cdn.shopify.com/s/files/1/0824/0509/t/4/assets/blog-hawaii3.jpg');
+}
+nav{
+    width:100wh;
+    
+    color:white;
+    
+    
+}
+ul{
+    list-style-type: none;
+    display:flex;
+    justify-content: space-around;
+    font-size:medium;
+    font-weight: bold;
+    
+}
+li:hover{
+    color:cadetblue;
+
+}
+h3{
+    display: inline;
+    padding-left:330px;
+    
+    font-weight: bolder;
+}
+footer{
+    color: white;
+}
+.t1{
+    padding-left:100px;
+    border:15px solid whitesmoke;
+    margin-left:100px;
+    margin-top:200px;
+    width:350px;
+    height:350px;
+    background-image:url('https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRALUn9owNdYGMZqMKpnMMntkCQ6hUtomw8mb5XJNMMXuG3c1GahKXflsTwqonffuBuxJzOuF3v8vH8oJVDO96A5BwoOkS9mqlyd7bMwQ');
+}
+div{
+    position: relative;
+}
+.t2{
+    padding-left:100px;
+    border:15px solid whitesmoke;
+    margin-left:150px;
+    margin-top:200px;
+    width:350px;
+    background-size: cover;
+    height:350px;
+    background-image: url('https://lh3.googleusercontent.com/p/AF1QipOapXPaL05U_PyfCSYm8gTZMbWbBwlGS5b_DlSS=s1360-w1360-h1020');
+}
+.t{
+    padding-left:100px;
+    border:15px solid whitesmoke;
+    margin-left:150px;
+    margin-top:200px;
+    width:350px;
+    background-size: cover;
+    height:350px;
+    padding-right: 20px;
+    background-image: url('https://lh3.googleusercontent.com/p/AF1QipOapXPaL05U_PyfCSYm8gTZMbWbBwlGS5b_DlSS=s1360-w1360-h1020');
+    
+}
+h4{
+    justify-content: center;
+    align-items: center;
+}
+h2{
+  color:rgb(6, 26, 39);
+  padding:10px;
+  font-weight: bold;
+  opacity: 90%;
+}
